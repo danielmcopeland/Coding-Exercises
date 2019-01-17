@@ -16,8 +16,8 @@ public class Employee {
     public boolean equals(Object obj) {
         if (!(obj instanceof Employee)) {return false;}
 
-        Integer temp = ((Employee) obj).getIdNumber();
-        return temp.equals(this.getIdNumber());
+
+        return ((Integer) ((Employee) obj).getIdNumber()).equals(this.getIdNumber());
     }
 
 }
