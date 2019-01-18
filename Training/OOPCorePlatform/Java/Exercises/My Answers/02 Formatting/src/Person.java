@@ -8,4 +8,14 @@ public class Person {
 		this.firstName = firstName;
 		this.lastName = lastName;
 	}
+	public String getFirstName() {
+		return this.firstName;
+	}
+	public String getLastName() {
+		return this.lastName;
+	}
+	@Override
+	public String toString() {
+		return String.format("%s, %s", this.lastName, this.firstName);
+	}
 }
