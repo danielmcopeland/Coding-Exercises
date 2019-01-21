@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c6038c2-6f19-4f96-ada2-35932623da81" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../../../OOPCorePlatform/Java/Exercises/after/06 Logging/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../OOPCorePlatform/Java/Exercises/after/06 Logging/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../OOPCorePlatform/Java/Exercises/after/06 Logging/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../OOPCorePlatform/Java/Exercises/after/06 Logging/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../OOPCorePlatform/Java/Exercises/after/06 Logging/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../OOPCorePlatform/Java/Exercises/after/06 Logging/06 Logging.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/daugherty/DataFormatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../OOPCorePlatform/Java/Exercises/My Answers/01 File System/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../OOPCorePlatform/Java/Exercises/My Answers/01 File System/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../OOPCorePlatform/Java/Exercises/My Answers/05 Controlling App Execution Environment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../OOPCorePlatform/Java/Exercises/My Answers/05 Controlling App Execution Environment/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../OOPCorePlatform/Java/Exercises/My Answers/05 Controlling App Execution Environment/05 Controlling App Execution Environment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../OOPCorePlatform/Java/Exercises/My Answers/05 Controlling App Execution Environment/05 Controlling App Execution Environment.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../OOPCorePlatform/Java/Exercises/My Answers/05 Controlling App Execution Environment/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../OOPCorePlatform/Java/Exercises/My Answers/05 Controlling App Execution Environment/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../OOPCorePlatform/Java/Exercises/My Answers/06 Logging/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../OOPCorePlatform/Java/Exercises/My Answers/06 Logging/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../OOPCorePlatform/Java/Exercises/My Answers/RandomCoffee/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../OOPCorePlatform/Java/Exercises/My Answers/RandomCoffee/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,10 +62,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="457" />
-    <option name="y" value="-19" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -115,8 +101,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548044035775" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548044180841" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../02 Single Responsibility" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -165,7 +151,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -177,7 +162,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

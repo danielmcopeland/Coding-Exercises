@@ -2,8 +2,8 @@ package com.daugherty;
 
 public class Main {
     public static void main(String[] args) {
-        int yearOfCreation = 2012;
-        double balance = 600000;
+        int yearOfCreation = 2004;
+        double balance = 570000;
         Account sampleAccount = new Account(yearOfCreation, balance);
         double currentInterestRate = sampleAccount.getInterestRate();
 
