@@ -23,6 +23,10 @@ public class Main {
 	//-------------------
 	private static void generalLogging() {
 		// TODO: use the generalLogger to log an INFO, WARNING and SEVERE log message
+		generalLogger.setLevel(Level.INFO);
+		generalLogger.log(Level.INFO, "Testing out Logs");
+		generalLogger.log(Level.WARNING, "Failure imminent");
+		generalLogger.log(Level.SEVERE, "This is a catastrophic failure");
 	}
 	
 	//-------------------
@@ -30,5 +34,14 @@ public class Main {
 	//-------------------
 	private static void fileLogging() {
 		// TODO: Use the fileLogger to log all log messages to a file in your home directory
+		try{
+			FileHandler h = new FileHandler("%h/myapp_%g.log", 1000, 4);
+			Formatter f = new SimpleFormatter();
+			h.setFormatter(f);
+			fileLogger.addHandler(h);
+			fileLogger.setLevel(Level.ALL);
+			fileLogger.log(Level.INFO, "Logging this INFO Log");
+		}catch(Exception e) {e.printStackTrace();}
+
 	}
 }
